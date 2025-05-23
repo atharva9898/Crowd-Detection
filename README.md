@@ -14,6 +14,7 @@ Check out the [demo video](assets/dataset_video.mp4) showing crowd detection in 
 
 ## 📁 Folder Structure
 crowd-detection/
+
 ├── crowd_detection.py # Main detection script
 
 ├── assets/demo_video.mp4 # Original input video
@@ -49,11 +50,13 @@ python crowd_detection.py --video assets/demo_video.mp4
 Output will be saved to outputs/.
 
 📊 Output
+
 annotated_video.mp4 — Visual bounding boxes and group tags
 
 crowd_log.csv — Timestamped records of crowd formations
 
 📌 Use Cases
+
 Public safety & surveillance
 
 Event management
@@ -62,7 +65,10 @@ Social distancing enforcement
 
 📩 Contact
 For questions or collaborations, feel free to reach out:
+
 Atharva Chavan
+
 LinkedIn - https://www.linkedin.com/in/atharva-chavan-ab891a203/
+
 Email - atharva.chavan9898@gmail.com
 
