@@ -3,7 +3,7 @@
 This project detects people in a video and identifies when **3 or more individuals are standing close together for 10 consecutive frames** using **YOLOv5** and **OpenCV**.
 
 ## 📽️ Demo
-Check out the [demo video](assets/demo_video.mp4) showing crowd detection in real-time.
+Check out the [demo video](assets/dataset_video.mp4) showing crowd detection in real-time.
 
 ## 🚀 Features
 - Person detection using YOLOv5
