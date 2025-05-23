@@ -15,10 +15,13 @@ Check out the [demo video](assets/dataset_video.mp4) showing crowd detection in 
 ## 📁 Folder Structure
 crowd-detection/
 ├── crowd_detection.py # Main detection script
-├── utils/helper_functions.py # Distance & tracking logic
+
 ├── assets/demo_video.mp4 # Original input video
+
 ├── outputs/annotated_video.mp4 # Output with bounding boxes and logs
+
 ├── outputs/crowd_log.csv # Log of crowd events
+
 ├── requirements.txt # Python dependencies
 
 
